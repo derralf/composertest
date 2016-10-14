@@ -1,9 +1,11 @@
 {
-    "name": "derralf/composertest",
-    "repositories": [
-      {
-        "type": "vcs",
-        "url": "https://github.com/derralf/composertest"
-      }
-    ]
+    "type": "package",
+    "package": {
+    	"name": "derralf/composertest",
+    	"version": "1.0.0-dev",
+    	"dist": {
+    		"type": "vcs",
+    		"url": "https://github.com/derralf/composertest"
+    	}
+    }
 }
