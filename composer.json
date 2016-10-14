@@ -1,0 +1,9 @@
+{
+    "name": "derralf/composertest",
+    "repositories": [
+      {
+        "type": "vcs",
+        "url": "https://github.com/derralf/composertest"
+      }
+    ]
+}
